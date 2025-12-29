@@ -1,0 +1,677 @@
+{
+  "version": 1,
+  "items": {
+    "388525197df9909b1bd654ce8ad31c9f3b444ef711ba0ffbbb0d08e8998bc696": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "[이엠디] 파이썬 암호 오용, 이제 자동으로 잡는다… 고려대, ‘CRYPTBARA’ 개발 - eMD Medical News",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfZldUSzE3WWg4b2JLSXNHb1Vlcjh3M1EzZEhtei03cUR3ZzRwNlhlNHIxYTgyOGVCY3VDSnRBOUJDR3JmWi14NUVMYzh4aFVidHdMUFVmaVhfdlUyTUE?oc=5",
+      "published": "Fri, 12 Dec 2025 04:04:09 GMT",
+      "ingested_at": "2025-12-29T16:49:18"
+    },
+    "e5b134fb03c82dfe54a9af0040ac86b8c2b92e49db641c24aa8bc6b04c7d1dee": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "한양사이버대, AI응용소프트웨어공학·노인복지요양학 전공 신설 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RTm05LWdERjNBUWVFd0ZVeGxpNGFZRmZXdVpXT1BqdTBuUlN4dkEtRWI1ZnFNVU9Bbm4yS05UaXJEaVp5WDQydldIX1N3OFVY?oc=5",
+      "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:19"
+    },
+    "3d9369e85f0ed3ededfb13a998c0c271969949a20801013096ce88a4a6003df0": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "소프트웨어공학 학술대회 ‘ASE 2025’, 서울서 역대 최대 규모로 개최 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QdF9odHhqZFR4bGVyZ29yd3FreHpnUkZUWmZXaDdlSjhuSThTY243bzhrQmZsZHBQbTBtUjd2Qm5tY2pPX0FCQzR1Qlc5Rzc3VEhnQ3N3ejNoLWxXRmJRN2FjMmZ1NTdtcjM3RU5JSnczSnhKU1HSAWZBVV95cUxQdFl1ZGk3T0xQdlR1VHA1M0xINDRWbUhGVWltTzhFTkgzU2ZtVnNtNWZ0Z2dxUnRPb1BYUnpCM3dnREdUVVl0ZG9xZklfdmktc2ZRMXhLUjU4SllqaEREclNJS0NuR3c?oc=5",
+      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:19"
+    },
+    "01c50f69aef9931fbdd725c120c4b9b879390c92f18d89020cc6cf3af18f18e6": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "14화 소프트웨어 공학 지식 체계 문서에 드러난 AI와의 관계 - 브런치",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1dmRyNkNPakZyTkRjdDlVbzNUQkZ3QkxlUjE5Y1FaNmdEWHJUUTRlbVdnQmpjWkQ5LS1COE9jZkdSYmhQNW84?oc=5",
+      "published": "Wed, 20 Aug 2025 04:39:39 GMT",
+      "ingested_at": "2025-12-29T16:49:20"
+    },
+    "cfec9dafcc4d6c55f43c5fc15bb1a6ce6ec5dd0874a2a990f1b1956a12d51c22": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "경상국립대, ‘지능적인 소프트웨어공학 워크숍’ 개최 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4enpTVVNxMDJ1ekZXRGp1X0hZMVp6ZU5ZX0NpaHdYemZ4TVdUYzEtUXp2UjBjRnBIZ3VhSHhSakFFd2NJTWthYmhzYWxlM3lrNTV0NUQ3WjBYWExidHZYV05mWUptcHg2NHNUajJsNGgtdw?oc=5",
+      "published": "Tue, 25 Nov 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:21"
+    },
+    "4a9d5cfebcc937c5355c883b0b117621be21633c8b6d8049cbf6ecbbe7ce2ebd": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "동의대, 2025 학생 창업유망팀 300+에 14개팀 선정 - 국제신문",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGF4cHlVQzRvTTNhYkJtU0EtT2czY0RoWXR1OHgwbGs2Qk5BZTFwdWc3LUdOdlhHTWdDd0dDcTJfUzhla2tIcG1ZM0ZLYmhPX2IzMWlRX05HWWoxdHJvTUdobDN6T19rNzlWYTN4UmJIdDBkTlZqaU1zNW1abjJVclZialJrZVkwVHMzWllB?oc=5",
+      "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:21"
+    },
+    "5afc07945cef1680df02a43ae44e054c50b918e6a826bc247dd8f05004805a90": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "고려대, 암호 오용 잡는 ‘CRYPTBARA’ 개발 - ceodaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NaXl0Z1cxRVZxdjhxbHBGNjlJSUVOdk9DSThPY1dXSkQxV0xjUXBIdnZQdFNsV2oyQ2F6dVVNa1V2WG44SG42bzFXMjF3M3NfWjlVbUVJT1dJeVZYdmsxZTBjUWhyU2lkb1RtZNIBcEFVX3lxTFBpcjRxTzdLT0tVQ0tTMXNGVmVnV3hRX2JpQXMyUExJck1zZTFhNmM5N3BIcEFMNGpkOXd5STJwOTNYTHZhTVlUMlQ0N0Y3QzZxMWhBeEFhS2pCeHRKQnVZOFdmMGxFN28yT181WUZSX1g?oc=5",
+      "published": "Fri, 12 Dec 2025 06:42:36 GMT",
+      "ingested_at": "2025-12-29T16:49:22"
+    },
+    "ee692bee44adabe4e3091cbed95eb39fa25f6dadb682cab3b535fb99dab7dfbb": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "개발자 대체 아니다··· 생성형 AI, 소프트웨어 리더의 역할을 재편 중 - cio.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNb05NQjhpN3ZfS3dfYmJtVkxFbzZ6Vk9yQjlUUVZyb3JSeWwwSkwySHZoTkQtRTRGenplVTk3WUtzT0F5QjZFNGlRMHUwc3Rvci03RUxVVExtRy1WSHBWY0tKRlBaakhWMFZDajJ6S1h0ZEk0OXVaYUU0eWRHVGFJc0dTQXZvOUx6ODRrMHBOakVUY1dkU2tpRUI4c216MFBYcklmQ1h0S2ZIdGxYN0lwQkhUcWgzR1BaVWlKT0J2Y21vUTgzZXdCWGFHU3UzWW5FbzVlUDZxMmF6ZTJjMHFmWVkyRE51czhtWVRELURTbERlYXBUcjdBSlVWbmd1OHF4UXg0aE4wOF8xWVZidWdwVUtDVktOQmlPUjFEb09ab21GYVE4aW9zaU9OdnUwWHE3ZDM4czVnRHVDcHhQNW55Q3lvM0hSWjFtYmdCYlQxYnZsV3hhOEk2Q3pB?oc=5",
+      "published": "Mon, 12 May 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:22"
+    },
+    "4cb7dd2c476dda658f9bca46c598cdf2e8bffa1230657d768e1d4c4f76961c7e": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "AI와 SDLC의 만남: GenAI로 혁신하는 소프트웨어 개발 - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNODY2LU5kang4cjQ3ajdkTVd1bXJFdzRYRTQ2ZGZlbjFmcE9NcE5XcEUyb3NOWVpOUE1vc3k1ZFgyQndDY3VDR0tLaUdXRGlCYXlNaG80OXJwcjExREQ5djduazlQZkFJal9INklMUHFuMk4wc29sakNTQzNPdUpUdlFYZw?oc=5",
+      "published": "Thu, 31 Jul 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:23"
+    },
+    "c368eb3fb0a0b4a675d74b0baf86e8b7afec638657c6386747afae595e81687a": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "서상범 페르세우스 대표, 독일 응용과학연구소 자문위원 위촉 - 헬로티",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jNVJzYUZ4dzl0ZTl5R1k0WFhEUlhURGlhcVQtNnl6OWdONmFaVUYtUUdhOGtRQzI2Y19FdkdUcTdyNTNEUzVPeUNGU3V5Yjh3WXIxTGl1UVY2WkY4OThn?oc=5",
+      "published": "Thu, 17 Jul 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:24"
+    },
+    "22137e6607723c145fc8b1906022fbac76915219b9018594dc1ae3b6b08836d5": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "모던 소프트웨어 엔지니어링 [새책] - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tbzlZR3F5MVh4NUlMZnpvRkFfcnpyWldtbkhZaFVibnBiZWVZYU5BdzBTTi05a21saG03a3owbTlOQ0FBazFhUVhSMkRaN09Kb09FeEZyMTJZcW8tVEZTUlE1SS0tRllHM2E4Z0xSVXXSAXRBVV95cUxNOGNfdVlGSmtmNXRpSERrQ29ta1NFbUlMUkEyVnNvLTFUZEd1cTIzMkRvVU1zYmdQYmw3UnZzenVPS0ZoY1JpV3hsM21LOVV5OHJuZVZnV05WZFZTVnd6d0FjalowNVBpTHVldHR0c1pVNGxDLQ?oc=5",
+      "published": "Sun, 13 Apr 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:24"
+    },
+    "347de61803dcf6d657bd68d0983ffb251679016cd6e09062125ec088ac284144": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "고려대학교 박지혁 교수팀, 코드가 바뀌어도 정확히 찾아낸다...웹 라이브러리 정밀 탐지 기술 ‘DEBUN’ 개발 - 한국강사신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NT1lXMGJhWlItUmpTVF9SSzE4VXR4SXlQbnJmUS1RamtWTm1lWHlLc3FXdFdZN2FPcVQyV1paZk1YMzNsa3Q2OGh3OGVqd2t6VU5nRmxzaFFMa0dtenkwU0xvejJNWEZ1LWI2SmY5cmk?oc=5",
+      "published": "Fri, 05 Dec 2025 05:11:00 GMT",
+      "ingested_at": "2025-12-29T16:49:25"
+    },
+    "732aeab9e783fddc60edb3d1a28166daf05060bd1b711b96bd19e14805038018": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "[2025 전북혁신도시 활성화 대토론회] 조재혁 전북대학교 소프트웨어공학과 교수 주제발표 - 전북도민일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rNGZjRGM5N0tlQmd2U2hCZl9DYnZYR3pHTWRPWERnZmlaendDZ040ZE5iLTdVYzdBcXYzaWp5MDlsVHdJaWVJcllQV2tMS3NKRTJVQWJHbExTbUtZcG1KdXBHMnJSV3BEZndB?oc=5",
+      "published": "Sun, 28 Sep 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:25"
+    },
+    "9765b8870cb4506789330cabb524f209a8efcae494762ce9687d9e962f7b7984": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "두루이디에스, ‘2025 소프트웨어 메타 품질 전문가 포럼’ 참가 - 아이티데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0Wm4tY1ZZSVg0TVEtRkg4eDhQR1lRQS1zeVZtTU1fWmRLN1JqZU42ZTBnYldZQ29KYlFYT21VS3dTSGE5NWluQ0pZY05wZjlTazlwTm5JYnJWVXNQN1QzemR4RXR6UkE?oc=5",
+      "published": "Wed, 20 Aug 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:26"
+    },
+    "9a4d137e0671fe2e70471dc1693d12c1dfd81e3c7402e4dfd9a5a0d3e64c7b98": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "국립금오공대 석사과정생 논문...컴퓨터공학분야 우수 국제학술대회서 발표 - 경북구미신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80SzJ1cU5qSmhXTkVhVUc0YVhkTFJFaDlGY1JJa3Zob3N5MTdqMmNqc2xhQllxUXBzbkNWUWtBd0NOeGtmVWotRGJlZTY2N2FnYkhDa1B5eGZMNFdFRENPclVKZ1ZMTFpGR2c?oc=5",
+      "published": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:27"
+    },
+    "5ee8b10d9fe9807c317686169790b0df3c3cccb2572f8ab1316c998bb6112e99": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "13화 인공지능 시대의 개발자로 자신을 개발하기 - 브런치",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12eGVFTld4aVBFVTlnMzZWb1BzdHBxOGRCV0MtTmtxV3FYRkc3cU1FaGZSZTBzaVZpanJCX3N6Ti1ET2hyNlFOSHd2NA?oc=5",
+      "published": "Mon, 18 Aug 2025 06:19:15 GMT",
+      "ingested_at": "2025-12-29T16:49:27"
+    },
+    "0b40758b0a3914c7ecbf4b339a155c40be8b50e14d40857e489579ff04f1dce3": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "경상국립대학교, '지능적인 소프트웨어공학 워크숍' 개최 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05R05WdDlGRkd3R2RZSkprVFlhLUdNTHEzQmU2N1drZ05KcHBmZGlqRW5NTzRtVFgzQjJxcHV5YVF0dUhaYk5JRFpPdXd1VV96TjNr?oc=5",
+      "published": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:28"
+    },
+    "1996849c8deb73e7c1def76d9c5d4257ade2cd507949e1d4c66f1e4249ad7600": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "06화 바이브 코딩과 증강 코딩은 다르다 - 브런치",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tajdMX2xWZFh5XzRMdU1KU3dYX2RSM0ZabmRCUi1iUHQyeWJ4eFBjYlg3RUdjU0VZOHpOWlBvbmhhS0Q3cXM4SGYxdw?oc=5",
+      "published": "Tue, 01 Jul 2025 20:43:40 GMT",
+      "ingested_at": "2025-12-29T16:49:28"
+    },
+    "e578cd67601b2873fa0260499144e1d240ef79f0a78e224c4be77e323501399f": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "02화 점진주의: 애자일보다 마음에 드는 표현 - 브런치",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vOWtCWnAyYm5jTzF0Z1RBdHl1dXNhSVNrUVVyNEV4ekxBb2tpNVFnR2hUR0JEY2p1U0ZGNDlMQUZjQ21UelJaMEs2MA?oc=5",
+      "published": "Mon, 09 Jun 2025 17:48:24 GMT",
+      "ingested_at": "2025-12-29T16:49:28"
+    },
+    "a999374d652f9fb96a1f54b0ef4c39f016471e63a375840020ff74e9ea13cbe7": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "08화 컨텍스트 엔지니어링 프레임워크 - 브런치",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlbWFDWTRrLXdxY2gtS2tSUFRTcXB3U0NXWDRmRXYxRWxGMlJSbVRfcmktZ2hEWUFiQko1Tmo5Q3ZuZUV4WHV3R1JaRQ?oc=5",
+      "published": "Sun, 27 Jul 2025 15:04:48 GMT",
+      "ingested_at": "2025-12-29T16:49:29"
+    },
+    "cbb9bdd0a7ed7ab046746bcafb24cc27dbd23de2760f1154b11db4c4bbb1204d": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "과기정통부·AI안전연구소·TTA, 국내 첫 AI 안전성 평가 실시 - 데일리안 미디어",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FTE5uUVEzVFVmQjRXU0FSUW1vaThJTDlTSlpMbTVYcmdLdHBnYjc3SzhsOWZsNWpDN3M2V0FoNEtOdHZueS1fVEFXRVpnSjI4cENrcGJR?oc=5",
+      "published": "Mon, 29 Dec 2025 03:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:31"
+    },
+    "987e2eeb61063d24953e235a7894343feee2ca33e903adad1d4dcaec6fff97a3": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "‘정신건강 위험’ 비판에…오픈AI 안전 책임자 재모집 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yMlo2b1VhX2ZIT3hRQ3MtTlFkM0RWTXRNQnRZSVJqbWt5UV85UndCR0NYX2ppREdNdmtIbnI4bkJjb19nMjRWaHB6M3pSUkRS?oc=5",
+      "published": "Mon, 29 Dec 2025 01:50:09 GMT",
+      "ingested_at": "2025-12-29T16:49:32"
+    },
+    "05350015a7726b38fb852c27061c00a6d2b3033f6d358cfb5c68b485b54999a6": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "‘AI 대부’ 제프리 힌턴 “오픈AI·메타, AI 안전보다 이익 중시” - 미주한국일보",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GWE9ueWRNNlBKR05yZXhLazBCNlBhaVBvRlZkWXlnNWNIMU1iSmpRZ2duMUdock0zcVJzb0VPdzN5WnBaRXROZVJVQnFnS3NQYUI0?oc=5",
+      "published": "Sat, 27 Dec 2025 22:43:38 GMT",
+      "ingested_at": "2025-12-29T16:49:32"
+    },
+    "c2ace64d6a83379a8aa0d2a1b4bb38facfb1efd8b959fcc506b097f4a06545ba": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "인공지능 모델 안전성 첫 평가, AI 안전 생태계 확산의 첫걸음 - 서울Pn",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90am1URWFYVEZob1BNTFpUQzRCaGo4MFVoaE1jRkNaVWswR1hLQmlDUzZ0VEFMdVFFUHNuZDl4VWpYZWV2Mmo4cWQzZjJmVzZOYjduWDFoUFUzczZnVEdrMVhR?oc=5",
+      "published": "Mon, 29 Dec 2025 03:12:35 GMT",
+      "ingested_at": "2025-12-29T16:49:33"
+    },
+    "41d8397e0ae05f949f5d440a3315a38f33a693974b535a22c8966e933ef66215": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "코레일, 새 ESG 비전 발표…\"AI·안전 등 전략과제 설정\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qT0xWM2tIQ2RGdkpsQm9NQUgyaEplNVN4S2VaanBOa0xBQXBuSFRJSTJRcVhZbXVvNWhWMXZvWWVmR3ZxTjdiakY2Z0lMdndsd2s0?oc=5",
+      "published": "Sun, 28 Dec 2025 05:09:00 GMT",
+      "ingested_at": "2025-12-29T16:49:34"
+    },
+    "6f61a8421188ae233b830af51c45db092257a3253525cbca5c25eae0a2de3d02": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "AI 대부 힌턴 기업들, AI 안전보다 이익 중시…美정치권서도 규제론 확산 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wT2MwS2Z3UmcyOUtJOWR5NE1Tck1KUGRHN3R5T1ZUUXVFSkxWNnVYenBKak1ZeHU1X2JoUV9TLXp4X1Y5NGhLTjRQV2tfVHBSbFo0UUx5VTJtQdIBWEFVX3lxTE5DQjlYaktBWjhSTW1BclE1aVY4cGMxaEQ0a0pmc0Z0WjVGSDlXenhvZzd2VXFIa2VUcFdzWDNBeEpDdm4xR2tKRVlBbF9PbU9tWVRyMVFqS0M?oc=5",
+      "published": "Mon, 29 Dec 2025 05:13:20 GMT",
+      "ingested_at": "2025-12-29T16:49:34"
+    },
+    "d940c6e896f38ef83b0f150eef5f304a3a8183bde52a8a40b9e0ab30a7f05ac5": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "과기정통부, 카카오 '카나나' AI 안전성 평가 진행 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OZjlURElpTW16Z3o1QnNua2pSa2I1bjZqSGNodndsN2NWMkk2NnJ1eGU2RGZkQUZKVzVPM21JVEkzWmhkUDNHR1dxVWFEaEc5dXV2S2dKMkNJdVl4Mzh0Y0F2N0VqbDlwSkpnZzEtQldOQ28?oc=5",
+      "published": "Mon, 29 Dec 2025 03:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:35"
+    },
+    "aaf26c5601b08fa9d3c83f200443e40e73eced6cde295803426fbc133230dbe2": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "챗GPT, 청소년 자살 조장 논란…오픈AI “안전책임자 뽑겠다” - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVODBpSmlXUUhnSDNKSVI5UHY4S0FxaTNOY1hOczBUWTBhZ0VhYkYyWVFUY0tjTTJ4emFvblBTc2pFRDJhVGYxM193MWRpSXhyQ2lPSVZESGJ0Z3pGOHVHSnBpd21SVVRab0xZQi1yUG92alHSAWZBVV95cUxNWThDYWZJdm51SDZRX0NKMl9Ub29WWnlOa3hSUmlUMFNvbkt3UzZUcGxBLWZZZTVEUWRVR0JyNTUyMDRlc0RPekR0LXdiNlg1N3pvSldpNTgwcjlqdzhOQjRKVVNZRGc?oc=5",
+      "published": "Mon, 29 Dec 2025 05:39:00 GMT",
+      "ingested_at": "2025-12-29T16:49:35"
+    },
+    "4d6086bbd52abc469e254b61d80dc121a58807938ac7532bb106ce2402e357cd": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "오픈AI가 ‘AI의 위험을 걱정할 사람’을 찾고 있다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xdUp6OEViRkp3SXdBYjFwT1BCT3ItREJfVW1PSG82MS02bjJwVFZLUlI0S0FURW5GQk5PNFFaWmp6ZVRralFaNy1kMWVzc28?oc=5",
+      "published": "Sun, 28 Dec 2025 04:12:00 GMT",
+      "ingested_at": "2025-12-29T16:49:36"
+    },
+    "94b95b966e414091b2e328d7e147c4768ed91868263bbbc6accc5a09e22969ff": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "'정신 건강 위험' 비판받은 오픈AI, AI 안전 책임자 다시 모집 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4OHdpbjdTaHowNnJiVWJ6bS1mX2tiYXVuZTNvb0pnU0ZjYWR1OWFZTXhReGlZemg4QVFrc05FOEVrR3d5U3FydENkcmV4UVFDdXJaaWhuWnZwaDJ3VmfSAYMBQVVfeXFMTTFaOUIwSjFLeHVlUjM3RjZhQWJIYUdxXzllX0hSNXIzbThZSUN1b2xlQkp0TDdaQ0luOEo2T3NPM1RGNWx4SHA4enpOakwzd3l1MEVFaHJtdlBSZzZ4dmNLYjFKX1VQUnRwa2lZWnhZUm9zZXk1ZzQ0ZUg5QmJIZENRRUE?oc=5",
+      "published": "Sun, 28 Dec 2025 18:34:00 GMT",
+      "ingested_at": "2025-12-29T16:49:37"
+    },
+    "0906bf34a94dad9c29ec50b0d3dbe67cb366b08fbea91b5ac2967d4085cea9c5": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "과기정통부·‧AI안전연구소·‧한국정보통신기술협회, 국내 연구진이 개발·구축한 데이터셋 기반 국내 최초 AI 안전성 평가 결과 공개 - 케이에스피뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yS0VDMERyclZ4Tm9IMy10WHRUYWxJMmYzT0U3dkdrZWQ0c0tiSjhOX3ZKeGdpRnFsWXZpQ2RGSnBCLTZUQ2c?oc=5",
+      "published": "Mon, 29 Dec 2025 03:07:00 GMT",
+      "ingested_at": "2025-12-29T16:49:37"
+    },
+    "fb05b81ac3b747a95cb988b9f61d1c219db6c9ad3d4dbddddc1c3b74cec2081d": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "과기정통부 “카카오 AI모델, 라마3.1보다 안전” - sedaily.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uaGF3S2RGOUU0VkUtZDdyY09OaVFMbnBReUZSNzFCbXh5dmg1WERNemhpeGtZRl9QZnFoOV9rdC1MNDl4dzNNTE9yMUlxUGRBT2ZscUZR0gFXQVVfeXFMTnJ2SF9MdGpySEwxek9ZclZsX1plN0czZU4tWG1RUUIteHFSSkJhRzRDakt0aXl4azJCeTEyUnRucGZTRXJzdnlSUzh3d19LSWM1aVlmaVpR?oc=5",
+      "published": "Mon, 29 Dec 2025 03:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:38"
+    },
+    "b97e48d9cc410f395fe3f9508489d70fe255651b059b849ca9d1aed088a5d69d": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "'AI 대부' 제프리 힌턴 \"오픈AI·메타, AI 안전보다 이익 중시\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPUE1WRTYxdUtjamdPeXlHSEZYdks2aWVsZmllVk5iV2NqYi1QaU5GXzlsU2RNcklGQk9zSzdsd0lsQ0YtLVUtLUZubmVTUS1wbThNalNyOFNXRE00S19uUNIBYEFVX3lxTFBPUE1WRTYxdUtjamdPeXlHSEZYdks2aWVsZmllVk5iV2NqYi1QaU5GXzlsU2RNcklGQk9zSzdsd0lsQ0YtLVUtLUZubmVTUS1wbThNalNyOFNXRE00S19uUA?oc=5",
+      "published": "Mon, 29 Dec 2025 03:12:58 GMT",
+      "ingested_at": "2025-12-29T16:49:38"
+    },
+    "0b2072b01180706510e7036fe68c91ec327a01a24be1c9ec082bc218df8131dd": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "‘정신건강 위험’ 비판받은 오픈AI, 안전 책임자 다시 모집 - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SYV9TTmVYbXlyQ3dwclZMOWlRV3prUjNNMWU3NnVQTmlqZHVnWDZFcEZYYm5UMjBKSkwxZzBSZFdKOU5ZX1JfcWF5X3QtZFFHbndTMzJWTXFrRm8?oc=5",
+      "published": "Sun, 28 Dec 2025 18:36:00 GMT",
+      "ingested_at": "2025-12-29T16:49:39"
+    },
+    "d71a690eaa386794803625777c2488a0b96e5e91656ae4f2e5184312d24e3776": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "\"美 라마·佛 미스트랄보다 낫다고?\"…정부, '카나나' 안정성 평가 공개 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6bTByVUtEem01cV9UU1gzSFpOZWU3TlRDZXdIOUdUQWhnMlpqMHNyRFgtMUY3c25ieGpldW1yRDJOSFFEZWVxbFVPYVVOb1N0ajlIMFpYSi1EbWlMeVpwdNIBeEFVX3lxTE5JWllqd3BLNmtmN3Rna195aW5tZTVaTGZibkEwVDFxRHd5azZyc0JWSEx3WVRZM0FGMGZQS3VndHlLaThFSkt0UDRiSk11SmxjcDdzNlU0UXJ0dVZMRW83eURLaHdpdDhUS1lTZGJhakdQTXpFRHBQTQ?oc=5",
+      "published": "Mon, 29 Dec 2025 03:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:40"
+    },
+    "d0063e6f5137196d776c8c7bff988958023d0b284748ade3cd7c8a7874ac749c": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "오픈AI '안전 책임자' 직책 신설…연봉 8억원? - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jTEgyb29xd2oxUWptMDNjRzhNdGVYajRmSDVRTTVnNVlIbGNnYWFWM0tMM2k2WkFTS0pneFFLWUVONFJrQk9NbG9qZ213Ym9NZ3FEZzVzY2tFeDdtYkF4SmdiQTZ6M3Myb2VzMnlMTU1YVE0?oc=5",
+      "published": "Mon, 29 Dec 2025 05:02:00 GMT",
+      "ingested_at": "2025-12-29T16:49:40"
+    },
+    "f2b9ad917047af391f1017a5a71cb0374246d96c33b1edbcc341373479840ce4": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "'AI 대부'의 경고 \"일자리 없어지고, 안전보다 이익 중시\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSNXdHLUdjSTQyVk90Y0pPNU9XVkIzODd1bWcyMHJ0azEyUUtpUEpYdDlRVnAwQ3NFQVZRUXBBMEY0d2l1eThIbnlHUk5qS2s?oc=5",
+      "published": "Mon, 29 Dec 2025 04:30:00 GMT",
+      "ingested_at": "2025-12-29T16:49:41"
+    },
+    "d38668c5a1c98f710e15932666ac1422a5a8e8d80bc1d7874dc0aa164c944a15": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "‘AI 대부’ 힌턴 교수 “AI, 내년에 일자리 더 위협” 경고 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSm03UFJkc29XYW5uZmh1QW5ybXNBcENpTk1QXzloOTNXV3VrNl9iUXhrMGFLa1dRVWp0TTlZblk4U2FqN1NBbk10M2xxc0FkOVgwTW5sdDM3azh6QklZUENkTlBCVVFpaTk3Q0hqMzFQSWlTSXNFaGMtdUJqNGt1YzhR?oc=5",
+      "published": "Mon, 29 Dec 2025 06:49:00 GMT",
+      "ingested_at": "2025-12-29T16:49:41"
+    },
+    "2dc2fbb241e9aeb931058f57ba7d4ce756f1e3f68e8eb628d197c1d6b5f6c5fd": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "'정신건강 위험' 비판받은 오픈AI, AI 안전 책임자 다시 모집 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBMUpLT1R6cGxMWEZtQm9fd2lENHNjRzRNcDhCSmRxTXZaWDV3eWZoQUN1RFNoZGxyUkoxRGhCZFEydVB3UVZRUlljRDhxb0Z5RlV4b2hRS2dxa1o0VW5TZtIBYEFVX3lxTFBBMUpLT1R6cGxMWEZtQm9fd2lENHNjRzRNcDhCSmRxTXZaWDV3eWZoQUN1RFNoZGxyUkoxRGhCZFEydVB3UVZRUlljRDhxb0Z5RlV4b2hRS2dxa1o0VW5TZg?oc=5",
+      "published": "Sun, 28 Dec 2025 18:11:18 GMT",
+      "ingested_at": "2025-12-29T16:49:42"
+    },
+    "cc21a8dfc3506ce866c4532622eb5e4ef4f7105514a9b32bcdcc74f0b306c022": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "카카오 '카나나' 국내 1호 AI 안전성 검증 통과…\"메타보다 안전하다\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pT1doMnk1MXZWX1NpZHJXUTY0cnVqSy1NM2NxLW0wUFhDRHF4X1p4cWVJNl9DbXotcHpyd2JNbGFEbV9BZzlObWdlWGtxNWRIeVE4?oc=5",
+      "published": "Mon, 29 Dec 2025 03:35:00 GMT",
+      "ingested_at": "2025-12-29T16:49:43"
+    },
+    "3ac93292334419b51eca8a7abd6a252002f3ed286714e83c99d948d70d7dbd7e": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "카스퍼스키, 자동차 기능 안전 국제표준 ISO 26262 인증 확보 - 헬로티",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xV2d5Y245dnh6NTVqYXVrNjViRHhGeV93ZzJYUjM0M3pzLVIwOHRXYmYxaW9HR3J5TnpGZDJneDZuODhXckJLMGNwV2NBOWFLOVVmQ0ZGTFlrcmk0bE5V?oc=5",
+      "published": "Mon, 17 Nov 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:44"
+    },
+    "a68ba47891784412f7034e02c4278ecc8bc465bde2fde3283ef681c15e670de4": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "딥테크 회사 '페르세우스', 자동차 기능 안전 최고 난이도 ISO 26262 'ASIL-D' 인증 획득 - 월간조선",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDhRRUtHNW1HZWRUeVlwWjJJRERxS3IyanlGb3FBOXZRVlRyQ1ZnS2l2NjVNdVBCNE9qdEZNeE1zZzVUTy1oTmV3cy1jbWVXSWp3Unc3RTd6T0d6VlpMdGtJQ0hkZWtwNUZkYVI1QlpnNGU0R1drSm5TQWV0dmZ1TFBfVWZCdDJfOTZ3aDZNVTU?oc=5",
+      "published": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:45"
+    },
+    "9dec3b123d5e65a1febac335ab42f4e9636275fb386f5eb537f799090cf0dcbd": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "현대트랜시스, 자동차 기능안전 국제표준 인증 획득 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zY0dxVFUyc2VFRWhOcnd3ZU0zbGdfbko2eXhHclpGaURQVFpwckw0eVVOS2w1Q1JjMTdZb0lrSlVrZTVqS3BnRjNpNzBNQnA0ejN1czh3TG5obEV0bGFBTk5QTGh5MjZPQ3N1d3FNYw?oc=5",
+      "published": "Tue, 18 Feb 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:45"
+    },
+    "e9f0c297694ecb97919d39746bb56c952bd004a3d4dec2005cfc76ec50bff5b5": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "넥스트칩, 기능안전·사이버보안 국제인증 획득 - fnnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JeEx5SlBkUzFRS3JvcWFUcG1EaWFiSHJQcXlfNVltQ0NKclhxSmRRMW5JSENwNVVPZGpCWDMyUFM2V001akdIREt3VnhQX2xHcTlXdW8ySmFsUdIBXkFVX3lxTE90Q0RVemRWTWVqTlVJYWM1YjVLRFRFME5ZR29iQ1hzWlJ1UGkxVDlhTjljSDF0MmhBTW1FaVVuMlRwSEstN2ZKRWJycGxBYTNxeXM3ZHZnMlRxeU1ZblE?oc=5",
+      "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:46"
+    },
+    "32db83cdfc1c10a62a985516774a05f53c090aa8a0c94f7c4b9927b92c3e44cd": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "현대오토에버, 차량 기능안전 검사기관 공식 인증 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KM2hPZXk0akRKSGs5b01haDhnS3RJa2h1S2JmenpWM2JETm8wYk5SeGl5YlY5OTRNSFlqeEtsaHNQaWNiNW5aZTNxVzRWZGJXalNGem9nN3NTRE3SAWBBVV95cUxOUHB6aWpEWHF2OGthNF9XRXNjV2U2Y3dEZ2Q5Q052dFEzNGM0SHYyNEVWbkd0MU1qNm9uRkd3V0pvVHE0M1FRWWRjTklMUHhPMDZUTnhSR3p5UDRFNjZNNGc?oc=5",
+      "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:46"
+    },
+    "7860a4213f9ddb31a12b591d5e5fb6636bbabec931830b69ea144504eca6f63b": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "현대트랜시스, 자동차 기능안전 국제표준 인증 획득 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDWGgyaldESDh2OVJfYVZxSVJmbHNPZTI1WG5ZaWR0VHdaUEVxMDhqeUZOOFNCYnhnVGtWZTlxQmI4NzJ5ZWpEY3pHR0NZNkhJMXNTNTdn?oc=5",
+      "published": "Mon, 17 Feb 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:46"
+    },
+    "5d1293b40d97721fe79ebbc50dba25315b2cd028dde1174c9bf1efe4fa34c75f": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "현대모비스, 차량용 반도체 연구개발 프로세스 국제표준 ISO 26262 취득 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lNE1kSVkzbGlIVWVQNXJJamhjS2hkUHltN0lFUEZOcUJmeUItY0JsQ2Q4cVE4R3gxWDl3ZlJESy1NWnNURHVVYTVtdWZkT0Zoc3VFQUt4NUtBNnBqLWdwbHVsVVo4RHhnOG0xUTRDRHR2QlU?oc=5",
+      "published": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:47"
+    },
+    "86f59c89aa490898b96f31894bffc4df2889e7e6fd282724234ebbf0832850d9": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "페르세우스, 자동차 기능 안전 최고 등급 ASIL-D 획득…CPU·MCU 동시 인증은 세계 최초 - 뉴스탭",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IZUlFWnZHNE5FZUNrLUFoRjlWbFNlclVLRFl0OHlBcUYxczVlVDlkY3l2OGR4ZGs2U2VmaG90Yll5U2xyalZVWFJjemdZWTg2aVFnX0xTd0REN2t5dy1DcHNRUlNldThQUmlfTQ?oc=5",
+      "published": "Thu, 16 Oct 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:48"
+    },
+    "41d6dad4ddaab7473fae2ceb6266979a98d9fc1a12078c957d9a3b091f4f6a55": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "\"車 SW 안정성 입증\"… 페르세우스, ISO 26262 ASIL-D 인증 획득 - 디지틀조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTlmNDZFWF8zTHdnU1JMQlJMWGt5MTYybnE1VnlLcDVCNU1WV1pzN1pSMTlnV2w4bFVoamIzdUhQU2l5alZkeDlOZDNTaW5sSVJuR0Z5ZHRxMzB4OEhKcmRTQlRPeG5lYldjazVUZHp0VnFMTjkyWWJjOEhReGVubmdST2lKeDjSAXtBVV95cUxQWGVYbzltU0JqUms5a0JjLW9raG5WSmFOLVM4S1ZqNzFnNEpKVklQdENOR0xURkU5ZVJKY0xZMEcycWxfSkh6YUM2RGFCeHFkcTU2eWFLdWhHSi1hZU5TbTFQRVpGY2pHYzh3b0RhUVlqRnkxMTRmRnQwcVU?oc=5",
+      "published": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:48"
+    },
+    "0d2640099a3bd07a9261bb93ea79fd8efe4d465217bfbc5ec752eecb27ac91e8": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "IAR, 퀸타우리스와 RISC-V 자동차 실시간 애플리케이션용 기능 안전 소프트웨어 강화 위해 협력 - 뉴스와이어",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JZEU3MzV0UFU4Tkh5b1pUQTliaWJ1Sy13VEExU2JORmM0bkVTTzRRbi1nVzFZR21nbTZvNkFMM3lRc0hNaGhPeFdrcm8ycGFicFlmWXh2cmUzQ1o0aXJR?oc=5",
+      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:49"
+    },
+    "6f703c7c7bee3400eb713926b49652fcb9f457a83024d268a568640f6ceade8b": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "임박한 자율주행 복합 규제… 유엔 규정, 위험 기반 접근법 요구돼 - 산업일보",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBXUHVQcUJ4a25xRlZmRzIzYU9LZW81dVBUMGFNaFdGY1RLd3k3ekJYckM5RXdReWlnSDR3Q0EyLTlMTzlf?oc=5",
+      "published": "Tue, 26 Aug 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:50"
+    },
+    "a9ed326022e265c74bf46ff3ed3524122bc4f957026093821d19a5ae14a112db": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "현대오토에버, ‘도로차량 기능안전’ 부문 ‘공인검사기관’ 선정... “車 기능안전 원스톱으로 검사” - 에이빙",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xMW00ZS1VbWJSLWtvX3VYb2dLcXJlSmRTQjBfekJJMHhIam05a1huNHVKV3lDaE8zZ3MtVG9VUnRTSW9INGhUSUkxcjNNbEZ0N0tmSUhfQW5vT2tkMWxINExLSVkwdjjSAWtBVV95cUxOZjM3QXpEb2x3SVlkZE9TMXFteGJ6NC02ZjhNTms3QndGQ3ZVdHprcHhwSHZoMml2M25qWEd6RUFZXzFqTkcwNFlrQnR6dG95bDUxdlhvRmRTQ3pzOFJVb1VhRlNUZlc1bms1aw?oc=5",
+      "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:50"
+    },
+    "8ee34f4c0aa259efd103fc12143f3621cfad8e0610d9e3ed03edb2db33945505": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "카스퍼스키, 자동차 기능 안전 글로벌 표준 인증 획득 - 뉴스프리존",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iZl9NQ2c3czl6QVA1aEw2OHhPOHgtcGp0WFdfdm5aTVp5bUt4U0RiR0txcVZMa1pwNjdNQ0t2NGNwc285eXZzT2NoZkF2T3RSc1ptR0QxX3VqMEhlcHRGX2o4QTZDZ2ZkTjBNZ05md25yOVnSAXdBVV95cUxQWEU3R29iTTBMT3FuNF9LdktBTU8wcWRLTldqWnNjTkRCRWlYcEJzVjQ3Z0dqY2FMNW5fT1RXVUg0S25WRFdWRmlLU3FJbS1lT0l5RDNqOWYwSGRjbVpVSGV1RVZBY1ExNGUzTmdvanUwQ25QajBjTQ?oc=5",
+      "published": "Mon, 17 Nov 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:51"
+    },
+    "4ab4bb12bb8d35a2a6d4a2d3ddeca05b536db69686f404fc76bebf9ce0502b32": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "하우엔지니어링웍스, 차량 전자 부품 및 반도체 기능안전 검사 공인기관 자격 획득 - 투데이안",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04bFJOc19UWWZkMDZ3NGZrV1BVSDM4S2Z2aHhmaFlwSlVVSUxDajQ1NEU4cFJLaTlFUTZ3Nlo5VXZDMzNVNHVKWFZYa0tZeUFIUlRja0xWQjZXck1Hc1E?oc=5",
+      "published": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:51"
+    },
+    "2a620e1de35dd05484d8a2c48559faaa4d475a896d4f5692acc357ac43bb0423": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "아나패스, '차량용 디스플레이 반도체' 기능안전 국제표준 인증 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hekFLMHkwb0xsV0FTR21QbnFxcWkxSzREdDRiMkNTNGZVbmd0UVlZX0s0RFRfbUc4MnN1TnlqYXBmZThqTHV1dTRBQU9MXzdHNmhhZVF0LUV2dG1lVUU3azZTQ1E?oc=5",
+      "published": "Tue, 18 Mar 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:52"
+    },
+    "204f35cba47ebb7dc4d5dc0a910eb7d9824ddf533af6504261e84274aea62b31": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "현대오토에버, 車 기능안전 ‘공인검사기관’ 자격 획득 - 모터매거진",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MbVlwN3FaeTk4YXN1azlfb0V5WVE4d3UxUEdNcnlLdmsxWG1NcWw4Z0xuZFZ2RXpIUnYyTV9JNUh4b0czU0FRVEk3ZnZLSHd0SmlDYkpuUjV2QkY2YkVScXNDMWRlZFE3ZG1naQ?oc=5",
+      "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:53"
+    },
+    "c3ab23c9f4be29342b696e83acc83bc2a092d50093d042f906cac31f03ee0d31": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "현대모비스, ‘車반도체 연구개발 프로세스’ 최고 등급 국제표준 취득...국내 협력사들과 K-생태계 확장 나선다! - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDSEYtVEpEX3ZNX25LUnVPRldyVnhRUDR2VjFPUFdqSkhmTlBLRXd3U1pSWmRZU3BQV256NTdPZTBhR2FzNkJhcW5WcXhpblVFZU9aalEtQWI1dkgwVmo2ZVhGX2hoOGdjSFkwX00wMA?oc=5",
+      "published": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:53"
+    },
+    "48099f6981a11523d26354dccb65fb246a0ab0573288bd3223873471c7bfa790": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "페르세우스, ‘CPU·MCU 동시 ASIL-D 인증’...자동차 가상화 안전성 확보 - 헬로티",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oVDd1ZHNsdy14ODRXVzBlQ2oyLWlCZ0pMdTlBYkpNRnl2RktoR2Q4X21WNW9YYndSQ3J4a00zRGRDdGZuQ2VpcXdjN3E3Vi1NQXRkd2c4cERGTVphT2Vv?oc=5",
+      "published": "Mon, 20 Oct 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:54"
+    },
+    "b6f213b99c2872eedbd80c399d2aa5bda3b4917e69b618c3c5b66903b6a498cd": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "현대트랜시스, 자동차 기능안전 국제표준 ‘ISO 26262 FSM’ 인증 획득 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NT042ektCSURCdDJBbE9iTUJ4VGNVTjF3dWtTM1MtTFlad25scERBTXhuVXE2RjZJWVpzdGRQNEVfa1NYajMxbk8wZWdMcjI5UkJsbkdmb2YwdnMxRG11am9LWjF4a2k2Q2Y1REtWODR2ZWN5TnFqWHNkdmZRX1XSAZMBQVVfeXFMUGQwdkV5em9OUF9hSW10Q0tZZ2k4NlVMVUVNaS1IdXFNaXdYZTdWdFFFVGRvb2xmVUNRN29SLWJ4OUlvcDNYVzV1Z2VuOVhSTjB1dXFCdkQ4QzBsd2J4Q1FnRGw5UFQydmJmeGIwa2pDRGFBeXdScDRTUlVXMktXdGhUWTFfRmtRS3hlclVpYUI2VkFz?oc=5",
+      "published": "Tue, 18 Feb 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:55"
+    },
+    "28935197b1dc88f7c87dfc8eb2a95c9f18501414eb95e4f40b649225dc222a19": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "현대모비스 차량 반도체, 국제 안전표준 최고 등급 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZcUNOaUFueG5PM3VUakRFR2x0VzdfTEkzODA5djlsbmpiUHBlMEptdUk0Wno1SVpPM0pUdE5nTlZXVHBkWlpkbmhwaHJQT2QyR1ViV2hUa3N6Z9IBVEFVX3lxTE4tV0lVWS1wT1RjQzBDNVJvYS1DcUtBTXgwVDJhc3poczl5dVFBcjVHa0N4THhsbHduUHFGVmFNZ1RudUhkWTdtYzY4V0ZNOGxvOXM4ag?oc=5",
+      "published": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T16:49:55"
+    },
+    "d5dfed96b439a42f40572a49210ec09611b48e40a72bf494d06d1d79e37da0d6": {
+      "status": "skipped_similar",
+      "keyword": "AI 안전",
+      "title": "과기정통부·‧AI안전연구소·‧한국정보통신기술협회, 국내 연구진이 개발·구축한 데이터셋 기반 국내 최초 AI 안전성 평가 결과 공개 - 한국시사경제",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ESWdUMHdMeTdIWno1UEpkNDFEalduQ2FzeUhTTHpJcks0Q0VGVldpd3d2OEU5cXJqYUVoREF1eFl3VWE3MHlIZndtWmJQZERZTUZFaGlxM1NsZmlMVG5lYlloeGlBdkRyU0E?oc=5",
+      "published": "Mon, 29 Dec 2025 03:31:27 GMT",
+      "seen_at": "2025-12-29T17:00:34"
+    },
+    "6b87687d32eb1f9b6ecb159b6f95578cd9d52e2ccd7900ab124440c36acc8465": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "오픈AI, AI 안전 책임자 재모집… 정신건강 논란에 다시 브레이크 - kmjournal.net",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xUVZ5RWszeHRRcjV3S2FGcVRNZWVHMVFIM3pIZEtyZlJ1TFZfRGVLS09rLXpaWVljRzBHRWkxeDZ4R3Z2c2t4bzhBMG1BQTNpaEpFUmpvY3EwcG9UYUgtZnpFQmNPSDFWaUE?oc=5",
+      "published": "Mon, 29 Dec 2025 01:48:15 GMT",
+      "ingested_at": "2025-12-29T17:00:34"
+    },
+    "b90d0ea525d75ce67191b5a26c7ad5581c72f3c05a8997c4b465a8e1223d63e6": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "[인터뷰] AI 안전 ‘창과 방패’ 만드는 에임인텔리전스… 유상윤 대표 “내년 초 신제품 출시” - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGFfeXI3X3JCQ1JVajhvZjRHYVdDWTlHNlBzeGRNVTBFZERlenZoLUd2OHJTNXFNR1VmYUNvbVZQak42ZVFhaXRWdzF3VEJyRGpEZW5OYVBMQzFJRHdydFBReXNrTjVvU3NqTFloSXhoYjJQVWJXd041YUJrSXEweWZR0gGWAUFVX3lxTE1fVS1lc2dKWHY5S0xyT3UtZG9wUVdlbGdpSDBIWHVmTWUwanpVcGRZU3JuLVRDUlVENG9ha1B0OV9GUnlVdmdJWFZHSXViRmRxbXBkWExJbk5PR0F6LUMxX3RwUGh6VGFsYUxNMHJKbmhhX2RkNHpFam9Sc002ZEt6M0xjV05IVzNNUWJvVFR2Ny05SXhmZw?oc=5",
+      "published": "Fri, 26 Dec 2025 21:00:00 GMT",
+      "ingested_at": "2025-12-29T17:10:43"
+    },
+    "2b99942b93e009bd9afa2792a1104f9f239aa792c54e7ec48caaf9ff821a1168": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "에임인텔리전스, LG전자·오픈마인드와 피지컬AI 안전 협력 첫 결실 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qTFkyYlBFUU1jWTFuNFRtODlFcUNRVk43eVRaMW1ONmVJQ3JkWGZ6WU41dXloUG84RktTR0w3M3diV2hoQnNfZ0hFaUt5YkU4bE9KRWN3?oc=5",
+      "published": "Fri, 26 Dec 2025 06:24:20 GMT",
+      "ingested_at": "2025-12-29T17:10:44"
+    },
+    "a0677f40adc546f3585883b1566631ce9c5c02e70d71cc922c91cd7845d50b4b": {
+      "status": "skipped_similar",
+      "keyword": "AI 안전",
+      "title": "오픈AI, ‘정신건강 위험’ 비판에 AI 안전 책임자 다시 모집 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSjRQTnJnb1E5b2dLUEI2TFpWSHE5RURUamc0dWV3SUh3dEw4dW44dUU4dWRsaktEczVhY1UxX3BrNDh2N1h2T3lFcU9OY0pRRUM2Sl9fWXBjVDljQnNUUlc0SmRFUVRnN2JLeG5RcWtHY2lrelhqR0JIb2RrN2Q2T0x3?oc=5",
+      "published": "Mon, 29 Dec 2025 01:48:00 GMT",
+      "seen_at": "2025-12-29T17:10:44"
+    },
+    "490c1ea9b45c268ed7f8657cfb65f964c4964be51996fbac5b87d2220e7a0fb4": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "세종사이버대학교 소프트웨어공학과, '일상을 바꿀 생성형 AI 및 대화형 GPT 활용 공모전' 시상식 성료 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03Xzd3aDVTbU90dWZZX005V0F1b1BHdDdrYXlqWXptMU91VFZPaEs2RUJISC05dmt6MW5pODBXZVlMYzhDMlQ5Tnc2b01ZQmllYUZsNElR?oc=5",
+      "published": "Mon, 03 Feb 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T17:20:53"
+    },
+    "8d40069f7f52a67e44b55c697359693b55ba171a316fb4c8b9772c42ae425905": {
+      "status": "skipped_similar",
+      "keyword": "AI 안전",
+      "title": "코레일, '환경·동반성장·책임' 강조한 새 ESG 비전 발표…AI·안전·균형발전 등 실행력 강화 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTjZZVUJEMjQ5VTlTUTRFZ0lzRDd3dkhOSmIwejlMbGNDSUl5UHo1RkVmRDdWbk1sNVpIRjQybEVwWExrTlZaVXBsbmNHbmY3ZThvcXlheUtucGE0VUFxUFhZalplNlQyMi10Rkp4Z1ZWWlB3bHg2SFZMU1NnMkNSbDRERkFYZ1BWMXc?oc=5",
+      "published": "Mon, 29 Dec 2025 02:17:00 GMT",
+      "seen_at": "2025-12-29T17:20:54"
+    },
+    "84ee521e5d53bb94e33565a47d885c08c42e791bfb7fd8fca4ea63f582fcd85d": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "오픈AI, AI 안전 책임자 다시 모집…정신건강 영향 경험 - SBS Biz",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWXMyV2lPS2YtemhzeE94WVBwY2lfT2paUmxrWmNTZE1qM2RMNWJuUUZYalNZWEVKUE1WaFhLQjloU1kyRE9BRWxZMzZ4SGpNczJz0gFYQVVfeXFMUFZPdHdlak15TkdyUU04VVNEYkM0NnBRczFjQUlGSkI1RF80Z1c3LTI5Ry1EMVJ3eEZOaVN2THRvRkhQUFRQUDhGZDBWNVhmQnRVNFE1eEtEXw?oc=5",
+      "published": "Sun, 28 Dec 2025 19:34:00 GMT",
+      "ingested_at": "2025-12-29T17:31:04"
+    },
+    "25539d01e8c7bc85e6bcbdd394f0b445d97ffd15ba92c89014399db5c6fe6d53": {
+      "status": "skipped_similar",
+      "keyword": "AI 안전",
+      "title": "과기정통부, 카카오 ‘카나나’ AI 안전성 평가 진행…”글로벌 모델 대비 우수” - 아이티데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZZXRGci1HYWhqeTd6X3pjdXQwVjQ5SUtITTVZZUNlVkQ5T1JfUkNDMVQ1QWlPSW5zYmRPMDVjakctUm03bHpReFVmZzRGY21ZVWF4UlFwYVBZd21EQ2l1eTl1TlRrblk?oc=5",
+      "published": "Mon, 29 Dec 2025 08:23:00 GMT",
+      "seen_at": "2025-12-29T17:41:12"
+    },
+    "07591da8994096ac04c8cb1e4c8c48de1f62f675c81e674c43d4683f506dcadc": {
+      "status": "added",
+      "keyword": "자동차 기능안전",
+      "title": "넥스트칩, 기능안전·보안 두 토끼 잡고 글로벌 시장 공략 가속화 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UWktvUzBPc0hXZzVQMTZzb1o1Z3FYQW9IQ3pHTHhBcWtid3ZNdGlRS2hkWHNKdko1bnJMUXZXYThUMXk3bkU2bWQ1R1IwVjhfOS1rU3NBa243QTdDcUNNZUU4RjVMMkRJa3hwakVfZmttX3fSAXdBVV95cUxPQ2VBVEtCbmw4QTRJMGx3cHZEOUhDQTVzeUxKQ3A4bWhlNWhNWnFNZUJDNDMtdVdmaC1IU1BzYkJMUU5FcDBrcmtzVXA2aXFwNGwtX0FHcDM5THBybVg2a0xVeXl3UXpINzRTbEtZZkhGUGZhVUFxWQ?oc=5",
+      "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "ingested_at": "2025-12-29T17:41:14"
+    },
+    "f364b5176632ac49befa385aff10ee344b0acd81bd7604ff0772829ca4e37e39": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "과기정통부·AI안전연구소·TTA, 국내 첫 AI 안전성 평가 실시 - 데일리안 미디어",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xTTVMREVoR2MtYlVQaTVVVnZhYVpQb1RUMVhwMEg5TGF3SEtNNlBFMkFMYVlpbmRrOEtZS0pLZnRGMDNaYWpwdTFpbU9URnhiOHdkNThHbw?oc=5",
+      "published": "Mon, 29 Dec 2025 03:00:00 GMT",
+      "ingested_at": "2025-12-29T18:01:27"
+    },
+    "6102990a94bab2aaec49e19b0ebf78bde9ff0ccac8599926b90b562e7c533191": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "AI·안전 등 분야 민간전문가 141명, 5·7급 공무원 합격 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zM1VUbnhlY19Xc29jRnVSR0FuTkR1THN0eElOVUdwbFlqZFFBR3VqaTBPZHZuam1admUzQzljSE9hVE5acGhKVndtZ1J5LU9Tb3hqN2ZUT1h4QlXSAWBBVV95cUxPaU1lUk1rd3Uwd1A0MVFOM0c0WHJFc3hhZWNrU1V6djdHM2RKZm9XQVRxbmRPMVRGLTN5N0pPbWhtQ1o0QmJHSGFHUnBEdFZlVVFaLUQ2MUoxNGRaN09faE8?oc=5",
+      "published": "Mon, 29 Dec 2025 09:00:01 GMT",
+      "ingested_at": "2025-12-29T18:11:39"
+    },
+    "1d5f8e58ce97d0a552417ca544798cd09d8968cda115dbf67d4361a70e5d4410": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "카카오 AI 모델 '카나나', 공공 평가서 글로벌 수준 안전성 확인 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvdmp0NzM5VlNBVkpuQTRvU3NlaHVJNXM0UnhkOUhtZlFiemxBSjQ3SnRHSjRYNXE2Mkttd2tSTV8xMENDWDR3N0JYdWRrdw?oc=5",
+      "published": "Mon, 29 Dec 2025 03:00:00 GMT",
+      "ingested_at": "2025-12-29T18:21:47"
+    },
+    "df4a3c75d66ff8d6de479de0c956bb26113f690be6d2f1706a5e24223820bb78": {
+      "status": "skipped_similar",
+      "keyword": "AI 안전",
+      "title": "과기정통부, 카카오 AI 모델 ‘카나나’ 대상 국내 첫 AI 안전성 평가 결과 공개 - 디지털경제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KamJEbVIxSUM5TXFkVjh4cEJ5cERJbmVGZk02U3kzSjUwanhjc1d5ODNkU0JNSkJWenRON192dmlncmJOSmJ6MXYtdENxTjBtbndrbi1SVVlWQnFLVkRlZzVSWVh5b1Z6?oc=5",
+      "published": "Mon, 29 Dec 2025 09:27:31 GMT",
+      "seen_at": "2025-12-29T18:31:56"
+    },
+    "117db854e418491d44e3a684d70222b6e639f28aa24603ba60e21effb30c488e": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "카카오 AI ‘카나나’, 라마·미스트랄보다 안전했다 - 넷제로뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oWl83MzI1ZFgzdWFXUjlRVlZlUDMxNzg5Y3JuRFZybG5hSTdUTWhTaVZqMmZwMjdLdFNoQmNuLWo0YmJwOE53anRaQU5oeGtZVmFTdEZUSnljZDBkcWpkbHNHQWhwRHdjYk530gFuQVVfeXFMTmJsUlh0SWVTSWwweWF3REVfMkM4WHNHOURPdUhDSXUzam05Z3pRd1BnTjdaVjVseFhYMHpFS1I4aC00dWM3b0hlbHZwZWpScG0xbEhJQUxtblUxQ0trWUFBUExLd1BvTmJpRk1yT3c?oc=5",
+      "published": "Mon, 29 Dec 2025 04:27:26 GMT",
+      "ingested_at": "2025-12-29T18:52:11"
+    },
+    "8d37871353bd1d5523baa1a298ef4ca1bbaabbc3ffa2d08b6cc329f71f123592": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "인공지능 모델 안전성 첫 평가, AI 안전 생태계 확산의 첫걸음 - 서프라이즈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IT1VHWnN5NnhsSFE4NlJ5XzBxYXduTHhVLVgxazJmV1MxdUU3UE1HLWZpZklGbEVKWk0yWTBSb0h4TFQ1dzlfMTlYVzZPQXFScHR5azhLOUQwb2lNdVJTNHAyNEdVYWprNXdVV2tIYw?oc=5",
+      "published": "Mon, 29 Dec 2025 03:28:25 GMT",
+      "ingested_at": "2025-12-29T18:52:12"
+    },
+    "022ec6009928ed50a778a84bdd5b5016833aeb8e9e14f577d1e9d30be911f326": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "과기정통부 \"카나나, 라마·미스트랄보다 안전\"…첫 AI 안전성 평가서 '합격점' - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tQkVzNXdnZFA2OWo4V0NKcTN0dkg0Sy02ejZYM1lXSHk0UGc3cmVJZWVwbm81SUFGeGVEZG5hLWF4VGcxQmRNTFN4VWVWQ1F5a3Z6Y25R?oc=5",
+      "published": "Mon, 29 Dec 2025 07:54:30 GMT",
+      "ingested_at": "2025-12-29T18:52:13"
+    },
+    "786d4dc7991b912c274f99d046dc6a0236c6e92ec116db55b084eb20216bacce": {
+      "status": "skipped_similar",
+      "keyword": "자동차 기능안전",
+      "title": "현대오토에버, 차량 기능 안전 검사하는 공인기관 자격 획득 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuOEI0WkdVNDJRUFVmRl9NbERxSk9LNFBHOVlFNkt2OG5XTlVQNy1sLTJISUxuRWw2OXgwVTVaX2RzTDZEWWx1cnpJRERCdw?oc=5",
+      "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+      "seen_at": "2025-12-29T19:02:23"
+    },
+    "4b3a3178b06d106c75f1cb690a6f8ccd315dbb994d4c987a78a7ef9d55756a6d": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "16세 소년이 자살 충동 털어놓자…챗GPT가 보인 충격 반응 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVODBpSmlXUUhnSDNKSVI5UHY4S0FxaTNOY1hOczBUWTBhZ0VhYkYyWVFUY0tjTTJ4emFvblBTc2pFRDJhVGYxM193MWRpSXhyQ2lPSVZESGJ0Z3pGOHVHSnBpd21SVVRab0xZQi1yUG92alHSAWZBVV95cUxNWThDYWZJdm51SDZRX0NKMl9Ub29WWnlOa3hSUmlUMFNvbkt3UzZUcGxBLWZZZTVEUWRVR0JyNTUyMDRlc0RPekR0LXdiNlg1N3pvSldpNTgwcjlqdzhOQjRKVVNZRGc?oc=5",
+      "published": "Mon, 29 Dec 2025 05:39:00 GMT",
+      "ingested_at": "2025-12-29T19:32:41"
+    },
+    "a4172068d73859b3453eb26b4762997258ad299341d7035db33db71451f9d39d": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "18화 모델에 없는 장기 기억을 구조화하는 프레임워크 - 브런치",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE04dXVkckl1QlJHZ2xMTmRUMy1IbzYxQ3NiOVdhNTNvcXlnN0pqZDcybEtOYV83d0l4dFJEWl9kZ3k0bGdkUmRZ?oc=5",
+      "published": "Tue, 02 Sep 2025 15:46:42 GMT",
+      "ingested_at": "2025-12-29T19:35:47"
+    },
+    "389ef15aacf22a71bd61ebb569d63cdbdc0dd44cb51fdbff43ff16f1bdf099f7": {
+      "status": "added",
+      "keyword": "소프트웨어 공학",
+      "title": "세종사이버대 소프트웨어공학과 ‘Dev to Career’ 특강 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wUUpnWm5uYWNuSVpMQkhyTHVQdkxtZFdHMEI0UDZMR0RpQ3BzVU1vZ1N1eS0yUFBMaHBFU0lxcTRfNDFIYVllZU45azZhNS1sYjJFOVln?oc=5",
+      "published": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "ingested_at": "2025-12-29T21:17:35"
+    },
+    "64743373bafc67991a9b6a32616ead3f83943421ffb8f793a2116bf42d9d4e8f": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "[AI는 지금] '챗GPT' 쓰다 우울증 온다고?…오픈AI, '안전 리더십' 재정비 본격화 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lMkN6ODBBeEo1UFJJN2ZVQkZuczNma1J6UldZQy1MV3AxVGRqWHNpYW1Uc0IzNEdGbU9EbnZUNGtOTjM3Y0JhMXozeE84MHNmWUV3SzVB?oc=5",
+      "published": "Mon, 29 Dec 2025 08:46:27 GMT",
+      "ingested_at": "2025-12-29T21:17:37"
+    },
+    "dc7afe818ed91fc9667d32b8da880e05c310a2f9ff6d0c19043d9a4fe79a27cc": {
+      "status": "added",
+      "keyword": "AI 안전",
+      "title": "망상 유발 비판에… 오픈AI, 안전 책임자 재모집 - segye.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MTVF5NkU4ZEZyUTM4Q2pXWjNfZGpacGUyVDRnVkYzSW1BRnNPSnk4RUZHVWdUdmVsOHZJYWd0ejVCM3pGTU1MRzZtak0tREFLaWRGaHM4TkzSAVRBVV95cUxNbU5sbS1KWXB3Y0RsQXFRbnhYUTZpbFRpd0JvamNIMU9VSnV4bEZDNExVektqaXhLQ0c2bXk1RXVpaEFTUTFYU2ZzbDJzUms2ZmZpZWM?oc=5",
+      "published": "Mon, 29 Dec 2025 10:50:00 GMT",
+      "ingested_at": "2025-12-29T21:17:38"
+    },
+    "4c4608b094016b153af0e664c477351658f8db91e1b4ffac0e729fc0f631a896": {
+      "status": "skipped_similar",
+      "keyword": "AI 안전",
+      "title": "AI·안전 등 분야 민간전문가 141명, 5·7급 공무원 합격 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pTWVSTWt3dTB3UDQxUU4zRzRYckVzeGFlY2tTVXp2N0czZEpmb1dBVHFuZE8xVEYtM3k3Sk9taG1DWjRCYkdIYUdScER0VmVVUVotRDYxSjE0ZFo3T19oT9IBYEFVX3lxTE9pTWVSTWt3dTB3UDQxUU4zRzRYckVzeGFlY2tTVXp2N0czZEpmb1dBVHFuZE8xVEYtM3k3Sk9taG1DWjRCYkdIYUdScER0VmVVUVotRDYxSjE0ZFo3T19oTw?oc=5",
+      "published": "Mon, 29 Dec 2025 09:00:01 GMT",
+      "seen_at": "2025-12-29T21:17:38"
+    }
+  }
+}

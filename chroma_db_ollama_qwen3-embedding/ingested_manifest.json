@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "items": {
+    "79b44dfa9aef116b5489a3f3a2fbe01f5580ec8dc68b89537d24648754b41b7d": {
+      "original_name": "BOK 이슈노트 제2022-38호 인공지능 언어모형을 이용한 인플레이션 어조지수 개발 및 시사점.pdf",
+      "stored_path": "/Users/gutaewan/Exercise/TRAG/data/BOK 이슈노트 제2022-38호 인공지능 언어모형을 이용한 인플레이션 어조지수 개발 및 시사점.pdf",
+      "ingested_at": "2025-12-29T12:54:28"
+    },
+    "35a2a0f4bfba55bca7ab6777b1aaf54bd0e7ac0e4039391f21b3acad0e4b2001": {
+      "original_name": "KSAE_IJAT_Template_VISEF_Empirical Evaluation_of_a_Vehicle-level Integrated Functional_Safety_Framework_R02.pdf",
+      "stored_path": "/Users/gutaewan/Exercise/TRAG/data/KSAE_IJAT_Template_VISEF_Empirical Evaluation_of_a_Vehicle-level Integrated Functional_Safety_Framework_R02.pdf",
+      "ingested_at": "2025-12-29T12:56:39"
+    },
+    "bfaaec89262875f927cf1b38b2da2d775f3309b7bea3537f29b606ca67e79065": {
+      "original_name": "Transformer_paper.pdf",
+      "stored_path": "/Users/gutaewan/Exercise/TRAG/data/Transformer_paper.pdf",
+      "ingested_at": "2025-12-29T12:58:27"
+    },
+    "cc342faf9fb4e4ccd4b842eca86d4ccc40a296dba0427ab6bd257c96a2cf1c8d": {
+      "original_name": "[이슈리포트 2022-2호] 혁신성장 정책금융 동향.pdf",
+      "stored_path": "/Users/gutaewan/Exercise/TRAG/data/[이슈리포트 2022-2호] 혁신성장 정책금융 동향.pdf",
+      "ingested_at": "2025-12-29T13:00:38"
+    },
+    "0703b7fbe7ef93505bdc3bb86a412a186fcda9ce96bc7e5d5912c28445b44517": {
+      "original_name": "★육아휴직제도 사용안내서_배포.pdf",
+      "stored_path": "/Users/gutaewan/Exercise/TRAG/data/★육아휴직제도 사용안내서_배포.pdf",
+      "ingested_at": "2025-12-29T13:01:31"
+    },
+    "a79604699421854226032b3fcff9555cdb8faf8f084321faddcab7bf60e0d920": {
+      "original_name": "대한민국헌법(헌법)(제00010호)(19880225).pdf",
+      "stored_path": "/Users/gutaewan/Exercise/TRAG/data/대한민국헌법(헌법)(제00010호)(19880225).pdf",
+      "ingested_at": "2025-12-29T13:03:39"
+    }
+  }
+}

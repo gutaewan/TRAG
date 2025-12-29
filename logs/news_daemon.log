@@ -1,0 +1,65 @@
+[2025-12-29T19:28:59] INFO fetched keyword='소프트웨어 공학' items=20
+[2025-12-29T19:29:00] INFO fetched keyword='AI 안전' items=20
+[2025-12-29T19:29:45] INFO fetched keyword='소프트웨어 공학' items=20
+[2025-12-29T19:29:45] INFO fetched keyword='AI 안전' items=20
+[2025-12-29T19:31:25] INFO fetched keyword='소프트웨어 공학' items=20
+[2025-12-29T19:31:26] INFO fetched keyword='AI 안전' items=20
+[2025-12-29T19:32:40] INFO fetched keyword='소프트웨어 공학' items=20
+[2025-12-29T19:32:41] INFO fetched keyword='AI 안전' items=20
+[2025-12-29T19:32:42] INFO fetched keyword='자동차 기능안전' items=20
+[2025-12-29T19:32:43] run_once: {'added': 1, 'skipped': 59, 'errors': 0}
+[2025-12-29T19:32:43] [NEWS_DAEMON] tick=17 at=2025-12-29T19:32:38 added=1 skipped=59 errors=0 next_in=600s
+[2025-12-29T19:35:08] INFO fetched keyword='소프트웨어 공학' items=20
+[2025-12-29T19:35:47] INFO fetched keyword='소프트웨어 공학' items=20
+[2025-12-29T19:35:48] INFO fetched keyword='AI 안전' items=20
+[2025-12-29T19:35:49] INFO fetched keyword='자동차 기능안전' items=20
+[2025-12-29T19:39:08] INFO fetched keyword='소프트웨어 공학' items=20
+[2025-12-29T19:39:09] INFO fetched keyword='AI 안전' items=20
+[2025-12-29T19:39:09] INFO fetched keyword='자동차 기능안전' items=20
+[2025-12-29T19:40:06] INFO starting news daemon: /Users/gutaewan/Exercise/TRAG/.conda/bin/python3 -m trag.news_daemon --run cwd=/Users/gutaewan/Exercise/TRAG
+[2025-12-29T19:40:06] INFO started pid=7004 (log=/Users/gutaewan/Exercise/TRAG/logs/news_daemon.log)
+[2025-12-29T19:40:10] INFO daemon loop started pid=7004 interval=600s keywords=3
+[2025-12-29T19:40:11] INFO fetched keyword='소프트웨어 공학' items=20
+[2025-12-29T19:40:12] INFO fetched keyword='AI 안전' items=20
+[2025-12-29T19:40:13] INFO fetched keyword='자동차 기능안전' items=20
+[2025-12-29T19:40:13] run_once: {'added': 0, 'skipped': 60, 'errors': 0}
+Fetched RSS for keyword='소프트웨어 공학' with status 200
+Fetched RSS for keyword='AI 안전' with status 200
+Fetched RSS for keyword='자동차 기능안전' with status 200
+[NEWS_DAEMON] tick=1 at=2025-12-29T19:40:10 added=0 skipped=60 errors=0 next_in=600s
+[2025-12-29T19:40:13] [NEWS_DAEMON] tick=1 at=2025-12-29T19:40:10 added=0 skipped=60 errors=0 next_in=600s
+[2025-12-29T19:50:19] INFO fetched keyword='소프트웨어 공학' items=20
+[2025-12-29T19:50:20] INFO fetched keyword='AI 안전' items=20
+[2025-12-29T19:50:21] INFO fetched keyword='자동차 기능안전' items=20
+[2025-12-29T19:50:21] run_once: {'added': 0, 'skipped': 60, 'errors': 0}
+Fetched RSS for keyword='소프트웨어 공학' with status 200
+Fetched RSS for keyword='AI 안전' with status 200
+Fetched RSS for keyword='자동차 기능안전' with status 200
+[NEWS_DAEMON] tick=2 at=2025-12-29T19:50:13 added=0 skipped=60 errors=0 next_in=600s
+[2025-12-29T19:50:21] [NEWS_DAEMON] tick=2 at=2025-12-29T19:50:13 added=0 skipped=60 errors=0 next_in=600s
+[2025-12-29T21:17:34] INFO fetched keyword='소프트웨어 공학' items=20
+[2025-12-29T21:17:36] INFO fetched keyword='AI 안전' items=20
+[2025-12-29T21:17:39] INFO fetched keyword='자동차 기능안전' items=20
+[2025-12-29T21:17:41] run_once: {'added': 3, 'skipped': 57, 'errors': 0}
+Fetched RSS for keyword='소프트웨어 공학' with status 200
+Fetched RSS for keyword='AI 안전' with status 200
+Fetched RSS for keyword='자동차 기능안전' with status 200
+[NEWS_DAEMON] tick=3 at=2025-12-29T21:17:28 added=3 skipped=57 errors=0 next_in=600s
+[2025-12-29T21:17:41] [NEWS_DAEMON] tick=3 at=2025-12-29T21:17:28 added=3 skipped=57 errors=0 next_in=600s
+[2025-12-29T21:27:47] INFO fetched keyword='소프트웨어 공학' items=20
+[2025-12-29T21:27:48] INFO fetched keyword='AI 안전' items=20
+[2025-12-29T21:27:49] INFO fetched keyword='자동차 기능안전' items=20
+[2025-12-29T21:27:49] run_once: {'added': 0, 'skipped': 60, 'errors': 0}
+Fetched RSS for keyword='소프트웨어 공학' with status 200
+Fetched RSS for keyword='AI 안전' with status 200
+Fetched RSS for keyword='자동차 기능안전' with status 200
+[NEWS_DAEMON] tick=4 at=2025-12-29T21:27:41 added=0 skipped=60 errors=0 next_in=600s
+[2025-12-29T21:27:49] [NEWS_DAEMON] tick=4 at=2025-12-29T21:27:41 added=0 skipped=60 errors=0 next_in=600s
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/gutaewan/Exercise/TRAG/trag/news_daemon.py", line 296, in <module>
+    run_loop()
+  File "/Users/gutaewan/Exercise/TRAG/trag/news_daemon.py", line 291, in run_loop
+    time.sleep(max(30, int(NEWS_POLL_INTERVAL_SEC)))
+KeyboardInterrupt
